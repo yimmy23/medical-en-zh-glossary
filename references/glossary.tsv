@@ -1,0 +1,61 @@
+source	target	notes
+adjuvant immunotherapy	辅助免疫治疗	术后
+anaplastic lymphoma kinase	间变性淋巴瘤激酶（anaplastic lymphoma kinase，ALK）	后续用 ALK
+average treatment effect in the overlap population	重叠人群平均治疗效应（ATO）	缩写 ATO
+borderline resectable	临界可切除	
+bulky	bulky	保留英文或「巨块型」；≠ N2b（按站点数）
+clinical data repository	临床数据仓库（clinical data repository，CDR）	后续用 CDR
+clone-censor-weight	克隆-删失-加权（clone-censor-weight，CCW）	后续用 CCW
+confidence interval	置信区间（confidence interval，CI）	常用 95% CI
+confounding by indication	适应证混杂（confounding by indication）	NOT 指征混杂/指示混杂
+consolidation immunotherapy	巩固免疫治疗	dCRT 后（PACIFIC 范式）
+definitive chemoradiotherapy	根治性放化疗（definitive chemoradiotherapy，dCRT）	concurrent=同步；后续用 dCRT
+disease control rate	疾病控制率（disease control rate，DCR）	后续用 DCR
+disease-free survival	无病生存期（disease-free survival，DFS）	后续用 DFS
+driver-negative	驱动基因阴性	或 无可靶向驱动变异
+E-value	E 值（E-value）	保留 E-value；数字与 E 间半角空格
+effective sample size	有效样本量（effective sample size，ESS）	后续用 ESS
+epidermal growth factor receptor	表皮生长因子受体（epidermal growth factor receptor，EGFR）	后续用 EGFR
+estimand	估计目标（estimand）	ICH E9(R1) 中文版用语
+event-free survival	无事件生存期（event-free survival，EFS）	后续用 EFS
+grace period	宽限期（grace period）	目标试验模拟中开始治疗的宽限期；常用译法，未核规范来源
+guarantee-time bias	保证时间偏倚（guarantee-time bias）	与 immortal-time bias 相关但不等同；常用译法，未核规范来源
+hazard ratio	风险比（hazard ratio，HR）	统计语境 HR 保留
+immortal time	永生时间（immortal time）	与 immortal-time bias 统一；❗NOT 不死时间
+immortal-time bias	永生时间偏倚（immortal-time bias）	❗NOT 不朽时间偏倚
+institutional review board	机构审查委员会（institutional review board，IRB）	后续用 IRB
+intention-to-treat	意向性治疗分析（intention-to-treat，ITT）	维护者选定（2026-10-19）；-like 指分组方式时译“类意向性治疗”；后续用 ITT
+International Association for the Study of Lung Cancer	国际肺癌研究协会（IASLC）	保留 IASLC
+inverse-probability-of-censoring weights	删失逆概率加权（inverse-probability-of-censoring weights，IPCW）	后续用 IPCW
+Kaplan-Meier	Kaplan-Meier 生存分析	维护者选定（2026-10-19）；曲线=Kaplan-Meier 曲线；西文与中文间半角空格
+landmark analysis	界标分析	landmark→界标；❗NOT 地标；milestone 另译 里程碑（区分）；全文统一
+landmark population	界标人群	landmark→界标
+lobectomy	肺叶切除术	
+major pathological response	主要病理缓解（major pathological response，MPR）	后续用 MPR
+mediastinal lymph node dissection	纵隔淋巴结清扫	
+milestone	里程碑	milestone EFS=里程碑 EFS；❗区别于 landmark=界标（设计/人群）
+multi-station	多站	N2b
+National Cancer Database	美国国家癌症数据库（National Cancer Database，NCDB）	后续用 NCDB
+neoadjuvant chemoimmunotherapy	新辅助化学免疫治疗	简称化免；NOT 新辅助放化疗
+nodal downstaging	淋巴结降期	ypN（仅手术臂可得）
+non-small-cell lung cancer	非小细胞肺癌（non-small-cell lung cancer，NSCLC）	后续用 NSCLC
+objective response rate	客观缓解率（objective response rate，ORR）	后续用 ORR
+odds ratio	比值比（odds ratio，OR）	
+overall survival	总生存期（overall survival，OS）	后续用 OS
+overlap weighting	重叠加权（overlap weighting）	
+pathological complete response	病理完全缓解（pathological complete response，pCR）	后续用 pCR
+prevalent-user bias	现行使用者偏倚（prevalent-user bias）	ICH M14 中文版用语（现使用者=prevalent user）；❗NOT 现患用户偏倚/现用者偏倚
+progression-free survival	无进展生存期（progression-free survival，PFS）	后续用 PFS
+propensity score	倾向性评分	全文统一「倾向性评分」
+proportional hazards	比例风险	PH 假定=proportional-hazards assumption
+R0 resection	R0 切除	保留 R0
+resectability	可切除性	
+response evaluation criteria in solid tumors	实体瘤疗效评价标准（response evaluation criteria in solid tumors，RECIST）	后续用 RECIST
+restaging	再分期	
+restricted mean survival time	限制性平均生存时间（restricted mean survival time，RMST）	后续用 RMST
+single-station	单站	N2a
+standardised mean difference	标准化均数差（standardised mean difference，SMD）	British 拼写源词
+target trial	目标试验	❗NOT 靶向试验（靶向=targeted therapy）；全文统一
+target trial emulation	目标试验模拟	❗NOT 靶向试验模拟
+time zero	零时点	time zero / t0
+tyrosine kinase inhibitor	酪氨酸激酶抑制剂（tyrosine kinase inhibitor，TKI）	后续用 TKI
